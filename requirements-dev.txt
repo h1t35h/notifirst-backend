@@ -1,5 +1,3 @@
-# Runtime requirements
---requirement requirements.txt
 
 # Testing
 pytest==2.5.1
