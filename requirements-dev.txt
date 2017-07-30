@@ -1,22 +1,18 @@
-
-# Testing
-pytest==2.5.1
-py==1.4.19
-mock==1.0.1
-
-# Linting
-flake8==2.1.0
-mccabe==0.2.1
-pep8==1.4.6
-pyflakes==0.7.3
-
-# Documentation
-Sphinx==1.2
+colorama==0.2.7
+Django==1.5.11
+django-mongodb-engine==0.6.0
+djangotoolbox==1.8.0
 docutils==0.11
+flake8==2.1.0
 Jinja2==2.7.1
 MarkupSafe==0.18
-Pygments==1.6
-
-# Miscellaneous
+mccabe==0.2.1
+mock==1.0.1
 Paver==1.2.1
-colorama==0.2.7
+pep8==1.4.6
+py==1.4.19
+pyflakes==0.7.3
+Pygments==1.6
+pymongo==3.4.0
+pytest==2.5.1
+Sphinx==1.2
